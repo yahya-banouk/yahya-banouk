@@ -7,28 +7,29 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+------------------------------------------------------------------------------
 
 I'm YAHYA BANOUK an IoT & Software Engineer Student at ENSIAS (National School of Computer Science and Systems Analysis), I do systematic development of IoT infrastructure using a blend of software and hardware solutions, I also develope softwares such as web, mobile and desktop apps (using diverse technologies) that have nothing to do with IoT  you can chekout my Github repositories to see some of them, i've realized this taking into account the principles of UX design and SCRUM as an agile working method if it was done as a team.
 
+------------------------------------------------------------------------------
 
 <div id="badges">
-  
   <a href="https://www.linkedin.com/in/yahya-banouk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
- 
   <a href="https://twitter.com/Yahya_Banouk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=yahya-banouk&style=flat-square&color=blue" alt=""/>
 </div>
 
+------------------------------------------------------------------------------
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yahya-banouk&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### :hammer_and_wrench: Languages and Tools :
+------------------------------------------------------------------------------
 
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -63,4 +64,10 @@ I'm YAHYA BANOUK an IoT & Software Engineer Student at ENSIAS (National School o
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+------------------------------------------------------------------------------
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yahya-banouk&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-banouk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
