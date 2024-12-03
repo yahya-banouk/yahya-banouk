@@ -10,7 +10,7 @@
 
 ------------------------------------------------------------------------------
 
-I'm YAHYA BANOUK an IoT & Software Engineer Student at ENSIAS (National School of Computer Science and Systems Analysis), I do systematic development of IoT infrastructure using a blend of software and hardware solutions, I also develope softwares such as web, mobile and desktop apps (using diverse technologies) that have nothing to do with IoT  you can chekout my Github repositories to see some of them, i've realized this taking into account the principles of UX design and SCRUM as an agile working method if it was done as a team.
+I'm YAHYA BANOUK a fullstack Software Engineer java/js, I do web development using spring boot/fastapi , reactJs/angular and AWS cloud in which I am certified, you can chekout my Github repositories to see some of my projects, i've realized this taking into account the principles and best practices of dev, also SCRUM as an agile working method if it was done as a team.
 
 ------------------------------------------------------------------------------
 
