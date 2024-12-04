@@ -10,7 +10,7 @@
 
 ------------------------------------------------------------------------------
 
-I'm YAHYA BANOUK a fullstack Software Engineer java/js, I do web development using spring boot/fastapi , reactJs/angular and AWS cloud in which I am certified, you can chekout my Github repositories to see some of my projects, i've realized this taking into account the principles and best practices of dev, also SCRUM as an agile working method if it was done as a team.
+I'm YAHYA BANOUK a fullstack Software Engineer java/js/python, I do web development using spring boot/fastapi , reactJs/angular and AWS cloud in which I am certified, you can chekout my Github repositories to see some of my projects, i've realized this taking into account the principles and best practices of dev, also SCRUM as an agile working method if it was done as a team.
 
 ------------------------------------------------------------------------------
 
